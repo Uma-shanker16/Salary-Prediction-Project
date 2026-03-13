@@ -37,8 +37,7 @@ The deployed Streamlit application used to predict salaries can be found here:
 
 # 🖼 Application Preview
 
-![App Screenshot]([streamlit-app-2026-03-13-09-36-31.webm]
-)
+![App Screenshot](https://github.com/user-attachments/assets/9a43dc28-b4ec-4d65-851d-ee6e940db45e)
 
 The Streamlit app allows users to input employee details and receive a predicted salary instantly using a trained machine learning model.
 
